@@ -5,3 +5,8 @@ langchainhub
 langchain==0.1.17
 sentence-transformers==2.7.0
 streamlit==1.34.0
+google-generativeai
+langchain-google-genai
+
+-e .
+
