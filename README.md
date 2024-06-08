@@ -1,10 +1,13 @@
 ## PDF Question Answer using LLM
 
-step 1:
-upload a pdf file
+_This code will help you to query any pdf that you upload using LLM._
 
-step 2:
-select a pdf file
 
-step 3:
-enter your question
+Steps to run the code :
+
+1. create a virtual environment
+2. <script>pip install -r requirements.txt</script>
+3. <scrip>streamlit run pdf_qa.py</script>       # To run the streamlit file use this code
+
+
+Docker file of this code is also provided here. 
