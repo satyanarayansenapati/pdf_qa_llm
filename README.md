@@ -6,7 +6,7 @@ _This code will help you to query any pdf that you upload using LLM._
 Steps to run the code :
 
 1. create a virtual environment
-2. <script>pip install -r requirements.txt</script>
+2. 'pip install -r requirements.txt'
 3. <scrip>streamlit run pdf_qa.py</script>       # To run the streamlit file use this code
 
 
